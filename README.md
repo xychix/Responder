@@ -2,7 +2,9 @@
 
 LLMNR/NBT-NS/mDNS Poisoner
 
-Author: Laurent Gaffie <laurent.gaffie@gmail.com >  
+This version is now unsupported by the author. For latest push/fixes/updates use the official repository: https://github.com/lgandx/Responder
+
+Author: Laurent Gaffie < laurent.gaffie@gmail.com >  
 
 https://g-laurent.blogspot.com/ 
 
@@ -157,7 +159,7 @@ Options:
 
 
 
-## Copyright ##
+## License ##
 
 NBT-NS/LLMNR Responder
 

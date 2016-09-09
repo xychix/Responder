@@ -2,8 +2,9 @@
 
 LLMNR/NBT-NS/mDNS Poisoner
 
-Author: Laurent Gaffie <laurent.gaffie@gmail.com > http://www.spiderlabs.com
+Author: Laurent Gaffie <laurent.gaffie@gmail.com >  
 
+https://g-laurent.blogspot.com/ 
 
 
 ## Intro ##
@@ -159,8 +160,9 @@ Options:
 ## Copyright ##
 
 NBT-NS/LLMNR Responder
-Created by Laurent Gaffie
-Copyright (C) 2013 Trustwave Holdings, Inc.
+
+Created and maintained by Laurent Gaffie
+
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

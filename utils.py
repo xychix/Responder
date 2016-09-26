@@ -96,7 +96,7 @@ def OsInterfaceIsSupported():
 def IsOsX():
 	return sys.platform == "darwin"
 
-def FindLocalIP(Iface, OURIP):
+def FindLocalIP(Iface, OURIP=None):
 	if Iface == 'ALL':
 		return '0.0.0.0'
 
